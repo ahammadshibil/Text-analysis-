@@ -21,11 +21,11 @@ for index, row in input_data.iterrows():
 # Load all the stopwords lists
 
 stopwords_files = [
-    "/home/shibil/Annual report/Webscrape/StopWords/StopWords_Auditor.txt",
-    "/home/shibil/Annual report/Webscrape/StopWords/StopWords_Currencies.txt",
-    "/home/shibil/Annual report/Webscrape/StopWords/StopWords_DatesandNumbers.txt",
-    "/home/shibil/Annual report/Webscrape/StopWords/StopWords_Generic.txt",
-    "/home/shibil/Annual report/Webscrape/StopWords/StopWords_GenericLong.txt"
+    "/StopWords_Auditor.txt",
+    "/StopWords_Currencies.txt",
+    "/StopWords_DatesandNumbers.txt",
+    "/StopWords_Generic.txt",
+    "/StopWords_GenericLong.txt"
 ]
 
 
